@@ -1,5 +1,5 @@
 const config = {
-  url: "http://localhost:5000/travelapi"
+  url: "http://localhost:2030/practice-backend/travelapi/destinations"
 };
 
 export default config;
